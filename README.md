@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leastchaos
-- 🌱 I’m currently learning python
+- 🌱 I’m a self-taught python developer and still learning something new about python everyday.
 
 <!---
 leastchaos/leastchaos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
