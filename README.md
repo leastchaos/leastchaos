@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @leastchaos
 - 🌱 I’m a hobbyist developer, interested in trading tools
 - Language I use: Python, SQL, MQL5
 - Discord: @leastchaos#2598
