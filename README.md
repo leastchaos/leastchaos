@@ -1,4 +1,4 @@
-- 🌱 I’m a hobbyist developer, interested in trading tools
+- 🌱 I’m a hobbyist developer and trader
 - Language I use: Python, SQL, MQL5
 - Main trading tools I used: CCXT and Hummingbot
 - Discord: @leastchaos#2598
