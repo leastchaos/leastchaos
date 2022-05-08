@@ -1,5 +1,5 @@
 - 🌱 I’m a hobbyist developer and trader
-- Language I use: Python, SQL, MQL5
+- Language I use: Python/Cython, SQL, MQL5
 - Main trading tools I used: CCXT, Hummingbot, IBKR, MT4/MT5
 - Discord: @leastchaos#2598
 <!---
