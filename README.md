@@ -2,6 +2,7 @@
 - Language I use: Python/Cython, SQL, MQL5, GoogleAppScript
 - Trading related tools I used: CCXT, Hummingbot, IBKR, MT4/MT5
 - Analysis Tools: PowerBI, Minitab
+- Learning: Rust
 
 #### Github Stats
 
