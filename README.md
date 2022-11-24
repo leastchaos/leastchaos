@@ -1,5 +1,5 @@
-- 🌱 I’m a hobbyist trader
-- Language I use: Python/Cython, Rust, SQL, MQL5, GoogleAppScript, Docker
+- 🌱 I’m a hobbyist coder/trader
+- Language I use: Rust, Python/Cython, SQL, MQL5, GoogleAppScript, Docker
 - Trading related tools I used: CCXT, Hummingbot, IBKR, MT4/MT5
 - Analysis Tools: PowerBI, Minitab
 
