@@ -1,5 +1,6 @@
 - 🌱 I’m a hobbyist trading bot developer
 - Language I use: Rust, Python/Cython, SQL, MQL5, GoogleAppScript, Docker
+- Trying to learn frontend
 - Trading related tools I used: CCXT, Hummingbot, IBKR, MT4/MT5
 - Analysis Tools: PowerBI, Minitab
 
